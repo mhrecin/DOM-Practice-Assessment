@@ -1,0 +1,13 @@
+body{
+    background-color: teal;
+    color:aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    background-color: aliceblue;
+    color:blueviolet;
+}
+
+input{
+    color:blueviolet;
+}
